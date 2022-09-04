@@ -1,0 +1,235 @@
+$date
+	Mon Jul 04 02:12:52 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module BCD_tb $end
+$var wire 1 ! t_D $end
+$var wire 1 " t_C $end
+$var wire 1 # t_B $end
+$var wire 1 $ t_A $end
+$var reg 1 % t_X $end
+$var reg 1 & t_clk $end
+$var reg 1 ' t_reset $end
+$scope module dut $end
+$var wire 1 ( DA $end
+$var wire 1 ) DB $end
+$var wire 1 * DC $end
+$var wire 1 + DD $end
+$var wire 1 % X $end
+$var wire 1 & clock $end
+$var wire 1 ' reset $end
+$var wire 1 ! D $end
+$var wire 1 " C $end
+$var wire 1 # B $end
+$var wire 1 $ A $end
+$scope module F1 $end
+$var wire 1 ( D $end
+$var wire 1 & clk $end
+$var wire 1 ' rst $end
+$var reg 1 $ Q $end
+$upscope $end
+$scope module F2 $end
+$var wire 1 ) D $end
+$var wire 1 & clk $end
+$var wire 1 ' rst $end
+$var reg 1 # Q $end
+$upscope $end
+$scope module F3 $end
+$var wire 1 * D $end
+$var wire 1 & clk $end
+$var wire 1 ' rst $end
+$var reg 1 " Q $end
+$upscope $end
+$scope module F4 $end
+$var wire 1 + D $end
+$var wire 1 & clk $end
+$var wire 1 ' rst $end
+$var reg 1 ! Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1+
+0*
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#5
+1&
+#10
+0&
+1'
+#15
+1*
+0+
+1!
+1&
+#20
+0&
+#25
+1+
+0!
+1"
+1&
+#30
+0&
+#35
+0*
+0+
+1)
+1!
+1&
+#40
+0&
+#45
+1+
+1)
+0!
+0"
+1#
+1&
+#50
+0&
+#55
+1*
+0+
+1!
+1&
+#60
+0&
+#65
+1+
+0!
+1"
+1&
+#70
+0&
+#75
+0*
+0)
+1(
+0+
+1!
+1&
+#80
+0&
+#85
+1+
+0!
+0"
+0#
+1$
+1&
+#90
+0&
+#95
+0(
+0+
+1!
+1&
+#100
+0&
+#105
+1+
+0!
+0$
+1&
+#110
+1(
+0&
+1%
+#115
+0+
+1$
+1!
+1&
+#120
+0&
+#125
+1)
+1*
+1+
+0(
+0!
+1&
+#130
+0&
+#135
+1)
+1*
+0+
+0(
+0$
+1#
+1"
+1!
+1&
+#140
+0&
+#145
+0*
+1+
+0!
+1&
+#150
+0&
+#155
+0*
+0+
+0"
+1!
+1&
+#160
+0&
+#165
+0)
+1*
+1+
+0!
+1&
+#170
+0&
+#175
+0)
+1*
+0+
+0#
+1"
+1!
+1&
+#180
+0&
+#185
+0*
+1+
+0!
+1&
+#190
+0&
+#195
+0*
+0+
+0"
+1!
+1&
+#200
+0&
+#205
+1(
+1+
+0!
+1&
