@@ -1,7 +1,7 @@
 <h1 align="center">
 CSARCH HDL Project 3
 
-(Introduction to Computer Organization and Architecture 1)
+(Introduction to Computer Organization and Architecture 1)</h1>
 
 
 📝**About**:   
