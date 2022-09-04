@@ -1,7 +1,9 @@
 <h1 align="center">
 CSARCH HDL Project 3
 
-(Introduction to Computer Organization and Architecture 1)</h1>
+(Introduction to Computer Organization and Architecture 1)
+
+<img src="Images/griffin3.png"></h1>
 
 
 📝**About**:   
